@@ -1,0 +1,5 @@
+--run tests
+npx playwright test -project=chromium --headed
+
+--show report
+npx playwright show-report 
